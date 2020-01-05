@@ -1,8 +1,9 @@
 Rencana Test TXT
 - hohoho
 * adalah tertawa dengan nada "hohoho"
-  ^ bisa juga dengan tepuk-tepuk
+ ^ dibarengi dengan ledekan
 - huhuhu
 * adalah tertawa dengan nada "huhuhu"
 - awokwokwok
-- wakwakwak
+- jhaha
+
