@@ -2,4 +2,5 @@ Rencana Test TXT
 - hohoho
 * adalah tertawa dengan nada "hohoho"
 - huhuhu
+* adalah tertawa dengan nada "huhuhu"
 - awokwokwok
